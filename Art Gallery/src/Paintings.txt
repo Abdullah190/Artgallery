@@ -1,0 +1,3 @@
+P0,Mona Lisa,Classic,A1,3000,Unsold,
+P1,Night Scene,Modern,A0,2000,Sold,
+P2,Whatever,Ancient,A1,10000,Unsold,
